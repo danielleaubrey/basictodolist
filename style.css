@@ -1,0 +1,9 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.task {
+    font-size: medium;
+    font-weight: bold;
+    cursor: pointer;
+}
